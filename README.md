@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TechSolutions</title>
+  <title>TechSolutions</title>
 </head>
 <body>
     <h1>TechSolutions</h1>
     <p>A TechSolutions é uma startup focada a ajudar microempresas com soluções tecnológicas para melhorar o seu perfil online!</p>
    
-     <h2>Serviços oferecidos</h2>
+ <h2>Serviços oferecidos</h2>
      <ul>
-        <li>Desenvolvimentos de sites</li>
+        <li>Desenvolvimento de sites</li>
         <li>Manutenção e suporte técnico de programas</li>
         <li>Design de UX/UI</li>
      </ul>
